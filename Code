@@ -1,124 +1,124 @@
 colonial_period = {
-    "colonialism": "The policy or practice of acquiring full or partial political control over another country, occupying it with settlers, and exploiting it economically.",
-    "mercantilism": "An economic theory and practice that promoted governmental regulation of a nation's economy for the purpose of augmenting state power at the expense of rival national powers.",
-    "triangular trade": "A historical term indicating trade among three ports or regions, often referring to the Atlantic slave trade.",
-    "Navigation Acts": "A series of laws enacted by England in the mid-17th century to regulate colonial trade and bolster the mercantile system.",
-    "Enlightenment": "An intellectual movement in Europe during the late 17th and 18th centuries that emphasized reason, science, and individual rights.",
-    "Great Awakening": "A religious revival in colonial America during the 1730s and 1740s that emphasized emotional and personal religious experience.",
-    "French and Indian War": "A conflict in North America (1754-1763) between France and Britain, with Native American allies on both sides, that resulted in British victory and increased tensions leading to the American Revolution.",
-    "Proclamation of 1763": "A British royal proclamation issued in 1763 that prohibited settlement west of the Appalachian Mountains, leading to tensions between colonists and the British government."
+  "colonialism": "The policy or practice of acquiring full or partial political control over another country, occupying it with settlers, and exploiting it economically.",
+  "mercantilism": "An economic theory and practice that promoted governmental regulation of a nation's economy for the purpose of augmenting state power at the expense of rival national powers.",
+  "triangular trade": "A historical term indicating trade among three ports or regions, often referring to the Atlantic slave trade.",
+  "Navigation Acts": "A series of laws enacted by England in the mid-17th century to regulate colonial trade and bolster the mercantile system.",
+  "Enlightenment": "An intellectual movement in Europe during the late 17th and 18th centuries that emphasized reason, science, and individual rights.",
+  "Great Awakening": "A religious revival in colonial America during the 1730s and 1740s that emphasized emotional and personal religious experience.",
+  "French and Indian War": "A conflict in North America (1754-1763) between France and Britain, with Native American allies on both sides, that resulted in British victory and increased tensions leading to the American Revolution.",
+  "Proclamation of 1763": "A British royal proclamation issued in 1763 that prohibited settlement west of the Appalachian Mountains, leading to tensions between colonists and the British government."
 }
 
 revolutionary_period = {
-    "Stamp Act": "A tax imposed by Britain on the American colonies in 1765 that required printed materials to bear a stamp purchased from the British government, leading to widespread protest.",
-    "Boston Tea Party": "A political protest by the Sons of Liberty in 1773 against the British Tea Act, in which they boarded British ships and dumped chests of tea into Boston Harbor.",
-    "Intolerable Acts": "A series of punitive laws passed by the British Parliament in 1774 in response to the Boston Tea Party, aimed at asserting British control over the colonies.",
-    "Declaration of Independence": "The formal statement adopted by the Continental Congress on July 4, 1776, declaring the thirteen American colonies independent from British rule.",
-    "Articles of Confederation": "The first constitution of the United States, adopted in 1781 and replaced by the Constitution in 1789, which created a weak central government."
+  "Stamp Act": "A tax imposed by Britain on the American colonies in 1765 that required printed materials to bear a stamp purchased from the British government, leading to widespread protest.",
+  "Boston Tea Party": "A political protest by the Sons of Liberty in 1773 against the British Tea Act, in which they boarded British ships and dumped chests of tea into Boston Harbor.",
+  "Intolerable Acts": "A series of punitive laws passed by the British Parliament in 1774 in response to the Boston Tea Party, aimed at asserting British control over the colonies.",
+  "Declaration of Independence": "The formal statement adopted by the Continental Congress on July 4, 1776, declaring the thirteen American colonies independent from British rule.",
+  "Articles of Confederation": "The first constitution of the United States, adopted in 1781 and replaced by the Constitution in 1789, which created a weak central government."
 }
 
 early_national_antebellum_period = {
-    "Constitution": "The fundamental principles and laws of a nation, especially when considered as the basis for government, rights, and responsibilities.",
-    "Federalists": "Supporters of the ratification of the Constitution and advocates for a strong federal government.",
-    "Anti-Federalists": "Opponents of the ratification of the Constitution who favored stronger state governments and were concerned about a lack of individual rights in the Constitution.",
-    "Bill of Rights": "The first ten amendments to the United States Constitution, ratified in 1791, which protect individual rights and limit the power of the federal government.",
-    "Louisiana Purchase": "The acquisition of the Louisiana Territory from France by the United States in 1803, doubling the size of the country and opening up western expansion.",
-    "War of 1812": "A conflict between the United States and Britain from 1812 to 1815, primarily over issues of trade restrictions, impressment of American sailors, and British support for Native American tribes.",
-    "Monroe Doctrine": "A policy articulated by President James Monroe in 1823 that warned European powers against further colonization or interference in the Americas, asserting U.S. influence in the region.",
-    "Manifest Destiny": "The belief in the 19th-century United States that it was destined to expand across the North American continent, often used to justify territorial expansion and westward settlement.",
-    "Mexican-American War": "A conflict between the United States and Mexico from 1846 to 1848, resulting in U.S. acquisition of territories including California, Texas, and the Southwest."
+  "Constitution": "The fundamental principles and laws of a nation, especially when considered as the basis for government, rights, and responsibilities.",
+  "Federalists": "Supporters of the ratification of the Constitution and advocates for a strong federal government.",
+  "Anti-Federalists": "Opponents of the ratification of the Constitution who favored stronger state governments and were concerned about a lack of individual rights in the Constitution.",
+  "Bill of Rights": "The first ten amendments to the United States Constitution, ratified in 1791, which protect individual rights and limit the power of the federal government.",
+  "Louisiana Purchase": "The acquisition of the Louisiana Territory from France by the United States in 1803, doubling the size of the country and opening up western expansion.",
+  "War of 1812": "A conflict between the United States and Britain from 1812 to 1815, primarily over issues of trade restrictions, impressment of American sailors, and British support for Native American tribes.",
+  "Monroe Doctrine": "A policy articulated by President James Monroe in 1823 that warned European powers against further colonization or interference in the Americas, asserting U.S. influence in the region.",
+  "Manifest Destiny": "The belief in the 19th-century United States that it was destined to expand across the North American continent, often used to justify territorial expansion and westward settlement.",
+  "Mexican-American War": "A conflict between the United States and Mexico from 1846 to 1848, resulting in U.S. acquisition of territories including California, Texas, and the Southwest."
 }
 
 civil_war_reconstruction_period = {
-    "Seneca Falls Convention": "A women's rights convention held in Seneca Falls, New York, in 1848, where the Declaration of Sentiments was drafted, demanding equal rights for women.",
-    "Dred Scott v. Sandford": "A Supreme Court case in 1857 that ruled African Americans, whether free or enslaved, were not citizens and had no rights under the Constitution, fueling tensions over slavery.",
-    "Emancipation Proclamation": "An executive order issued by President Abraham Lincoln in 1863 that declared all enslaved people in Confederate-held territory to be free, shifting the focus of the Civil War to ending slavery.",
-    "Reconstruction": "The period after the Civil War (1865-1877) during which the United States sought to rebuild the South, integrate freed slaves into society, and address issues of civil rights and citizenship.",
-    "Jim Crow laws": "Racial segregation laws enacted in the South after Reconstruction, enforcing racial discrimination and disenfranchisement of African Americans."
+  "Seneca Falls Convention": "A women's rights convention held in Seneca Falls, New York, in 1848, where the Declaration of Sentiments was drafted, demanding equal rights for women.",
+  "Dred Scott v. Sandford": "A Supreme Court case in 1857 that ruled African Americans, whether free or enslaved, were not citizens and had no rights under the Constitution, fueling tensions over slavery.",
+  "Emancipation Proclamation": "An executive order issued by President Abraham Lincoln in 1863 that declared all enslaved people in Confederate-held territory to be free, shifting the focus of the Civil War to ending slavery.",
+  "Reconstruction": "The period after the Civil War (1865-1877) during which the United States sought to rebuild the South, integrate freed slaves into society, and address issues of civil rights and citizenship.",
+  "Jim Crow laws": "Racial segregation laws enacted in the South after Reconstruction, enforcing racial discrimination and disenfranchisement of African Americans."
 }
 
 progressive_era = {
-    "Progressive Era": "A period of social and political reform in the United States from the late 19th century to the early 20th century, focusing on issues such as corruption, inequality, labor conditions, and women's rights.",
-    "muckrakers": "Journalists and writers during the Progressive Era who exposed corruption, injustice, and social issues through investigative reporting and literature.",
-    "Populists": "Members of the People's Party, a political movement in the late 19th century that advocated for farmers' rights, economic reform, and government intervention in the economy.",
-    "Social Darwinism": "A theory that applied Darwinian ideas of natural selection and survival of the fittest to human societies, often used to justify social inequalities and laissez-faire capitalism.",
-    "Americanization": "The process of assimilating immigrants into American culture and society, often through education, language acquisition, and cultural practices.",
-    "Yellow Journalism": "Sensationalized and biased news reporting, often associated with newspapers like William Randolph Hearst's New York Journal and Joseph Pulitzer's New York World in the late 19th century.",
-    "Progressive Amendments": "Constitutional amendments passed during the Progressive Era to address social and political issues, including the 16th Amendment (income tax), 17th Amendment (direct election of senators), 18th Amendment (Prohibition), and 19th Amendment (women's suffrage).",
-    "Sherman Antitrust Act": "A federal law passed in 1890 that aimed to prevent monopolies and promote fair competition in business, although its enforcement varied over time.",
-    "Roosevelt Corollary": "An addition to the Monroe Doctrine articulated by President Theodore Roosevelt in 1904, asserting the right of the United States to intervene in Latin American affairs to maintain stability and protect American interests.",
-    "Progressive Presidents": "Presidents during the Progressive Era known for their reform efforts, including Theodore Roosevelt, William Howard Taft, and Woodrow Wilson."
+  "Progressive Era": "A period of social and political reform in the United States from the late 19th century to the early 20th century, focusing on issues such as corruption, inequality, labor conditions, and women's rights.",
+  "muckrakers": "Journalists and writers during the Progressive Era who exposed corruption, injustice, and social issues through investigative reporting and literature.",
+  "Populists": "Members of the People's Party, a political movement in the late 19th century that advocated for farmers' rights, economic reform, and government intervention in the economy.",
+  "Social Darwinism": "A theory that applied Darwinian ideas of natural selection and survival of the fittest to human societies, often used to justify social inequalities and laissez-faire capitalism.",
+  "Americanization": "The process of assimilating immigrants into American culture and society, often through education, language acquisition, and cultural practices.",
+  "Yellow Journalism": "Sensationalized and biased news reporting, often associated with newspapers like William Randolph Hearst's New York Journal and Joseph Pulitzer's New York World in the late 19th century.",
+  "Progressive Amendments": "Constitutional amendments passed during the Progressive Era to address social and political issues, including the 16th Amendment (income tax), 17th Amendment (direct election of senators), 18th Amendment (Prohibition), and 19th Amendment (women's suffrage).",
+  "Sherman Antitrust Act": "A federal law passed in 1890 that aimed to prevent monopolies and promote fair competition in business, although its enforcement varied over time.",
+  "Roosevelt Corollary": "An addition to the Monroe Doctrine articulated by President Theodore Roosevelt in 1904, asserting the right of the United States to intervene in Latin American affairs to maintain stability and protect American interests.",
+  "Progressive Presidents": "Presidents during the Progressive Era known for their reform efforts, including Theodore Roosevelt, William Howard Taft, and Woodrow Wilson."
 }
 
 world_war_i_roaring_twenties = {
-    "World War I": "A global conflict from 1914 to 1918 involving major powers, including European nations and later the United States, with significant impacts on political, social, and economic developments.",
-    "Treaty of Versailles": "The peace treaty signed in 1919 that officially ended World War I and imposed harsh penalties on Germany.",
-    "Roaring Twenties": "A period of economic prosperity, cultural dynamism, and social change in the United States during the 1920s, characterized by jazz music, flapper culture, and technological advancements.",
-    "Prohibition": "The nationwide ban on the production, sale, and distribution of alcoholic beverages in the United States from 1920 to 1933, mandated by the 18th Amendment.",
-    "Great Migration": "The movement of African Americans from the rural South to urban areas in the North and West during the early 20th century, seeking better economic opportunities and escaping racial discrimination."
+  "World War I": "A global conflict from 1914 to 1918 involving major powers, including European nations and later the United States, with significant impacts on political, social, and economic developments.",
+  "Treaty of Versailles": "The peace treaty signed in 1919 that officially ended World War I and imposed harsh penalties on Germany.",
+  "Roaring Twenties": "A period of economic prosperity, cultural dynamism, and social change in the United States during the 1920s, characterized by jazz music, flapper culture, and technological advancements.",
+  "Prohibition": "The nationwide ban on the production, sale, and distribution of alcoholic beverages in the United States from 1920 to 1933, mandated by the 18th Amendment.",
+  "Great Migration": "The movement of African Americans from the rural South to urban areas in the North and West during the early 20th century, seeking better economic opportunities and escaping racial discrimination."
 }
 
 great_depression_new_deal = {
-    "Great Depression": "A severe economic downturn in the United States and worldwide, beginning with the stock market crash of 1929 and lasting throughout the 1930s, characterized by high unemployment, poverty, and economic hardship.",
-    "New Deal": "A series of programs and policies implemented by President Franklin D. Roosevelt in response to the Great Depression, aimed at economic recovery, relief for the unemployed, and reform of the financial system.",
-    "Social Security Act": "Legislation passed in 1935 as part of the New Deal, establishing a system of social insurance, including retirement benefits and assistance for the unemployed and disabled.",
-    "Dust Bowl": "A period of severe dust storms and ecological damage in the Great Plains region of the United States during the 1930s, exacerbating the effects of the Great Depression on farmers and rural communities.",
-    "Second New Deal": "A continuation of New Deal policies and programs introduced by President Roosevelt in the late 1930s, including additional relief measures, labor reforms, and social welfare initiatives.",
-    "Wagner Act": "Also known as the National Labor Relations Act, passed in 1935 as part of the Second New Deal, establishing workers' rights to organize labor unions and engage in collective bargaining."
+  "Great Depression": "A severe economic downturn in the United States and worldwide, beginning with the stock market crash of 1929 and lasting throughout the 1930s, characterized by high unemployment, poverty, and economic hardship.",
+  "New Deal": "A series of programs and policies implemented by President Franklin D. Roosevelt in response to the Great Depression, aimed at economic recovery, relief for the unemployed, and reform of the financial system.",
+  "Social Security Act": "Legislation passed in 1935 as part of the New Deal, establishing a system of social insurance, including retirement benefits and assistance for the unemployed and disabled.",
+  "Dust Bowl": "A period of severe dust storms and ecological damage in the Great Plains region of the United States during the 1930s, exacerbating the effects of the Great Depression on farmers and rural communities.",
+  "Second New Deal": "A continuation of New Deal policies and programs introduced by President Roosevelt in the late 1930s, including additional relief measures, labor reforms, and social welfare initiatives.",
+  "Wagner Act": "Also known as the National Labor Relations Act, passed in 1935 as part of the Second New Deal, establishing workers' rights to organize labor unions and engage in collective bargaining."
 }
 
 world_war_ii_postwar_era = {
-    "World War II": "A global conflict from 1939 to 1945 involving major powers, including Allied nations (such as the United States, Britain, and the Soviet Union) and Axis powers (such as Germany, Italy, and Japan), resulting in significant geopolitical changes and the emergence of the United States as a superpower.",
-    "Pearl Harbor": "The surprise military strike by the Japanese navy against the United States naval base at Pearl Harbor, Hawaii, on December 7, 1941, leading to U.S. entry into World War II.",
-    "Holocaust": "The systematic genocide of six million Jews and millions of other victims, including Romani people, disabled individuals, and political dissidents, by the Nazi regime during World War II.",
-    "D-Day": "The Allied invasion of Normandy, France, on June 6, 1944, marking a major turning point in World War II and leading to the liberation of Western Europe from Nazi control.",
-    "Atomic Bombings": "The use of atomic bombs by the United States against Japan in August 1945, leading to the surrender of Japan and the end of World War II.",
-    "Cold War": "A period of geopolitical tension and rivalry between the United States and the Soviet Union, characterized by ideological conflicts, proxy wars, and the threat of nuclear warfare, lasting from the late 1940s to the early 1990s.",
-    "Civil Rights Movement": "A social and political movement in the United States during the 1950s and 1960s, aimed at ending racial segregation and discrimination against African Americans and promoting civil rights and equality."
+  "World War II": "A global conflict from 1939 to 1945 involving major powers, including Allied nations (such as the United States, Britain, and the Soviet Union) and Axis powers (such as Germany, Italy, and Japan), resulting in significant geopolitical changes and the emergence of the United States as a superpower.",
+  "Pearl Harbor": "The surprise military strike by the Japanese navy against the United States naval base at Pearl Harbor, Hawaii, on December 7, 1941, leading to U.S. entry into World War II.",
+  "Holocaust": "The systematic genocide of six million Jews and millions of other victims, including Romani people, disabled individuals, and political dissidents, by the Nazi regime during World War II.",
+  "D-Day": "The Allied invasion of Normandy, France, on June 6, 1944, marking a major turning point in World War II and leading to the liberation of Western Europe from Nazi control.",
+  "Atomic Bombings": "The use of atomic bombs by the United States against Japan in August 1945, leading to the surrender of Japan and the end of World War II.",
+  "Cold War": "A period of geopolitical tension and rivalry between the United States and the Soviet Union, characterized by ideological conflicts, proxy wars, and the threat of nuclear warfare, lasting from the late 1940s to the early 1990s.",
+  "Civil Rights Movement": "A social and political movement in the United States during the 1950s and 1960s, aimed at ending racial segregation and discrimination against African Americans and promoting civil rights and equality."
 }
 
 modern_era = {
-    "Vietnam War": "A conflict in Southeast Asia from 1955 to 1975 between the communist forces of North Vietnam and the government of South Vietnam, with involvement from the United States and other nations.",
-    "Civil Rights Act of 1964": "Landmark legislation passed during the Civil Rights Movement, prohibiting discrimination based on race, color, religion, sex, or national origin.",
-    "Women's Liberation Movement": "A feminist movement in the 1960s and 1970s advocating for women's rights, including equal pay, reproductive rights, and gender equality in society.",
-    "Counterculture": "A cultural movement in the 1960s characterized by opposition to mainstream values, experimentation with new lifestyles, music, fashion, and social norms.",
-    "Watergate Scandal": "A political scandal in the 1970s involving the Nixon administration's involvement in illegal activities, including the break-in at the Democratic National Committee headquarters and subsequent cover-up, leading to President Nixon's resignation.",
-    "Reaganomics": "An economic policy associated with President Ronald Reagan in the 1980s, emphasizing tax cuts, deregulation, and free-market principles to stimulate economic growth and reduce government intervention.",
-    "End of the Cold War": "The collapse of the Soviet Union and the conclusion of the Cold War rivalry between the United States and the Soviet Union in the late 1980s and early 1990s, leading to major geopolitical changes.",
-    "Globalization": "The increasing interconnectedness and interdependence of economies, cultures, and societies worldwide, facilitated by advances in technology, communication, and transportation.",
-    "War on Terror": "A series of military campaigns, counterterrorism measures, and diplomatic efforts initiated by the United States and other countries in response to the September 11, 2001 terrorist attacks, targeting terrorist organizations and promoting global security.",
-    "Obama Presidency": "The presidency of Barack Obama from 2009 to 2017, characterized by efforts to address economic challenges, healthcare reform (Affordable Care Act), climate change, and foreign policy initiatives."
+  "Vietnam War": "A conflict in Southeast Asia from 1955 to 1975 between the communist forces of North Vietnam and the government of South Vietnam, with involvement from the United States and other nations.",
+  "Civil Rights Act of 1964": "Landmark legislation passed during the Civil Rights Movement, prohibiting discrimination based on race, color, religion, sex, or national origin.",
+  "Women's Liberation Movement": "A feminist movement in the 1960s and 1970s advocating for women's rights, including equal pay, reproductive rights, and gender equality in society.",
+  "Counterculture": "A cultural movement in the 1960s characterized by opposition to mainstream values, experimentation with new lifestyles, music, fashion, and social norms.",
+  "Watergate Scandal": "A political scandal in the 1970s involving the Nixon administration's involvement in illegal activities, including the break-in at the Democratic National Committee headquarters and subsequent cover-up, leading to President Nixon's resignation.",
+  "Reaganomics": "An economic policy associated with President Ronald Reagan in the 1980s, emphasizing tax cuts, deregulation, and free-market principles to stimulate economic growth and reduce government intervention.",
+  "End of the Cold War": "The collapse of the Soviet Union and the conclusion of the Cold War rivalry between the United States and the Soviet Union in the late 1980s and early 1990s, leading to major geopolitical changes.",
+  "Globalization": "The increasing interconnectedness and interdependence of economies, cultures, and societies worldwide, facilitated by advances in technology, communication, and transportation.",
+  "War on Terror": "A series of military campaigns, counterterrorism measures, and diplomatic efforts initiated by the United States and other countries in response to the September 11, 2001 terrorist attacks, targeting terrorist organizations and promoting global security.",
+  "Obama Presidency": "The presidency of Barack Obama from 2009 to 2017, characterized by efforts to address economic challenges, healthcare reform (Affordable Care Act), climate change, and foreign policy initiatives."
 }
 
 
 
 # Main loop for flashcard interaction
 while True:
-    flashcards = int(input('period select enter as number'))
-    if flashcards == 1:
-        flashcards = colonial_period
-    if flashcards == 2:
-        flashcards = revolutionary_period
-    if flashcards == 3:
-        flashcards = early_national_antebellum_period
-    if flashcards == 4:
-        flashcards = civil_war_reconstruction_period
-    if flashcards == 5:
-        flashcards = progressive_era
-    if flashcards == 6:
-        flashcards = world_war_i_roaring_twenties
-    if flashcards == 7:
-        flashcards = great_depression_new_deal
-    if flashcards == 8:
-        flashcards == world_war_ii_postwar_era
-    if flashcards == 9:
-        flashcards == modern_era
-    user_input = input("Enter a term to see its definition (or type 'exit' to quit): ")
-    for _  in flashcards:
-        print(flashcards.get(_))
-        user_input = input()
-        print(_)
-        print('________________________________________________')
-        if user_input.lower() == "exit":
-            print("Exiting flashcard system.")
-            break
+  flashcards = int(input('period select enter as number'))
+  if flashcards == 1:
+      flashcards = colonial_period
+  if flashcards == 2:
+      flashcards = revolutionary_period
+  if flashcards == 3:
+      flashcards = early_national_antebellum_period
+  if flashcards == 4:
+      flashcards = civil_war_reconstruction_period
+  if flashcards == 5:
+      flashcards = progressive_era
+  if flashcards == 6:
+      flashcards = world_war_i_roaring_twenties
+  if flashcards == 7:
+      flashcards = great_depression_new_deal
+  if flashcards == 8:
+      flashcards = world_war_ii_postwar_era
+  if flashcards == 9:
+      flashcards = modern_era
+  user_input = input("Enter a term to see its definition (or type 'exit' to quit): ")
+  for _  in flashcards:
+      print(flashcards.get(_))
+      user_input = input()
+      print(_)
+      print('________________________________________________')
+      if user_input.lower() == "exit":
+          print("Exiting flashcard system.")
+          break

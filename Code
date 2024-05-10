@@ -194,15 +194,14 @@ while True:
   if flashcards == 10:
       flashcards = all_terms
   user_input = input("Enter a term to see its definition (or type 'exit' to quit): ")
+  lst = []
   for _  in flashcards:
-      lst = []
-      lst.append(_)
-      random.shuffle(lst)
-      num = lst.pop()
-      print(flashcards.get(num))
-      user_input = input()
-      print(_)
-      print('________________________________________________')
-      if user_input.lower() == "exit":
-          print("Exiting flashcard system.")
-          break
+    lst.append(_)
+
+  for i in lst:
+    random.shuffle(lst)
+    num = lst.pop()
+    print(flashcards.get(num))
+    user_input = input()
+    print(num)
+    print('________________________________________________')

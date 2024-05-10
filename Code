@@ -116,7 +116,7 @@ while True:
     user_input = input("Enter a term to see its definition (or type 'exit' to quit): ")
     for _  in flashcards:
         print(flashcards.get(_))
-        input()
+        user_input = input()
         print(_)
         print('________________________________________________')
         if user_input.lower() == "exit":
